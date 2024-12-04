@@ -20,5 +20,6 @@ for (let index = 0; index < themeURLS.length; index++) {
     ace.config.setModuleUrl(themeFileNames.replace(".js", ""), themeURLS[index])
 }
 
+//set theme
 editor.setTheme("ace/theme/gruvbox");
 setKeyboardHandler(vim);
