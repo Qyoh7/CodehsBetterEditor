@@ -6,7 +6,7 @@ const themeFileNames = [
     "nord_dark.js",
     "terminal.js",
     "xcode.js",
-    "gruvbox.js",
+    "gob.js",
     "gruvbox.js",
 ];
 const themeURLS = []
