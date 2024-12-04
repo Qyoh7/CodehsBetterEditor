@@ -1,2 +1,2 @@
 # CodehsBetterEditor
-more codehs themes and editor options
+WIP project to add more codehs themes and editor options
