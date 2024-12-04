@@ -1,0 +1,1 @@
+editor.setTheme("ace/theme/twilight");
