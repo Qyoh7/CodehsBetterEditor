@@ -1,4 +1,5 @@
 //theme pathing setup
+import "https://qyoh7.github.io/ace-builds/src-noconflict/ace.js"
 const baseThemeURL = "https://qyoh7.github.io/ace-editor/src/theme/"; 
 const themeFileNames = [
     "gruvbox.js",
